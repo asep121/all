@@ -44,7 +44,7 @@ cookieOptions = {
     learn: "Learn More" };
 //]]>
 </script>
-3. Copy kode berikut ini dan pastekan kedalam Notepad, ganti url”http://website-anda.com/safelink.html” dengan Link halaman yang anda buat tadi.
+3. Copy kode berikut ini dan pastekan kedalam Notepad, ganti url”https://ilmucimahi404.blogspot.com/2019/08/how-is-cancer-treated.html” dengan Link halaman yang anda buat tadi.
 
 var Base64 = {
     _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
